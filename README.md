@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Alimikhena Marvellous.
+- 👋 Hi, I’m Marvellous Alimikhena.
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning software Engineering.
 - 💞️ I’m looking to collaborate on future projects.
 - 📫 How to reach me: via gmail @ alimikhenamarvellous@gmail.com
 
